@@ -1,0 +1,13 @@
+import predict
+predict.update_LR()
+predict.predict_LR('f135393818')
+predict.update_KN()
+predict.predict_KN('f135393818')
+
+'''
+predictをインポートした後，update_LR()でデータベース上の各メーカーの商品データをもとに学習，predict_LR(auctionID)で価格を予測。
+現時点で予測できる商品は NEC SONY FUJITSU DELL TOSHIBA の5つのメーカーのもの。データが少ないメーカーについては学習時にエラーとなる。
+
+LR 線形回帰
+KN k近傍法
+'''

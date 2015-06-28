@@ -1,0 +1,5 @@
+オークションの価格予測についての論文
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2007.00605.x/pdf
+http://www.accenture.com/SiteCollectionDocuments/PDF/priceprediction.pdf
+http://delivery.acm.org/10.1145/1090000/1081918/p411-ghani.pdf?ip=157.82.4.120&id=1081918&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2E925D03907F1B22EF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=450508364&CFTOKEN=50871332&__acm__=1399011860_20e56b2e42513fd0d1a4d0effa193e00
+（３つ目のリンクおかしかったらここから→http://dl.acm.org/citation.cfm?id=1081918）

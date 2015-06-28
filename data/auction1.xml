@@ -1,0 +1,108 @@
+	<Result>
+		<AuctionID>h187497791</AuctionID>
+		<CategoryID>2084193600</CategoryID>
+		<CategoryPath>オークション &gt; コンピュータ &gt; パソコン &gt; Windows &gt; ノートブック、ノートパソコン &gt; 富士通 &gt; 15インチ～</CategoryPath>
+		<Title>富士通 NF/G70 赤 Core i5 2.53GHz/4GB/500GB Win7 良品 1円～</Title>
+		<Seller>
+			<Id>MoreDanceInTheDark</Id>
+			<Rating>
+				<Point>790</Point>
+				<TotalGoodRating>790</TotalGoodRating>
+				<TotalBadRating>0</TotalBadRating>
+				<IsSuspended>false</IsSuspended>
+				<IsDeleted>false</IsDeleted>
+			</Rating>
+			<ItemListURL>http://auctions.yahooapis.jp/AuctionWebService/V2/sellingList?sellerID=MoreDanceInTheDark</ItemListURL>
+			<RatingURL>http://auctions.yahooapis.jp/AuctionWebService/V1/ShowRating?id=MoreDanceInTheDark</RatingURL>
+		</Seller>
+		<AuctionItemUrl>http://page8.auctions.yahoo.co.jp/jp/auction/h187497791</AuctionItemUrl>
+		<Img>
+			<Image1 width="600" height="450" alt="DVD-Rを再生。大変きれいに映ります。">http://auctions.c.yimg.jp/img321.auctions.yahoo.co.jp/users/8/2/0/4/moredanceinthedark-img600x450-1397462516niwqi462714.jpg</Image1>
+			<Image2 width="600" height="450" alt="SP1適用済み。DDR3SDRAMメモリ搭載。">http://auctions.c.yimg.jp/img321.auctions.yahoo.co.jp/users/8/2/0/4/moredanceinthedark-img600x450-13974625167fzloy62714.jpg</Image2>
+			<Image3 width="600" height="450" alt="">http://auctions.c.yimg.jp/img321.auctions.yahoo.co.jp/users/8/2/0/4/moredanceinthedark-img600x450-1397462517vnqs8v62714.jpg</Image3>
+		</Img>
+		<Initprice>1.00</Initprice>
+		<Price>43000.00</Price>
+		<Quantity>1</Quantity>
+		<Bids>30</Bids>
+		<HighestBidders totalHighestBidders="1">
+			<Bidder>
+				<Id>luk*****</Id>
+				<Rating>
+					<Point>4</Point>
+					<IsSuspended>false</IsSuspended>
+					<IsDeleted>false</IsDeleted>
+				</Rating>
+			</Bidder>
+			<IsMore>false</IsMore>
+		</HighestBidders>
+
+		<ItemStatus>
+			<Condition>used</Condition>
+		</ItemStatus>
+
+		<ItemReturnable>
+			<Allowed>false</Allowed>
+			<Comment>ノークレームノーリターン厳守でお願いします。</Comment>
+		</ItemReturnable>
+
+		<StartTime>2014-04-14T17:07:02+09:00</StartTime>
+		<EndTime>2014-04-18T14:37:28+09:00</EndTime>
+		<Bidorbuy>43000.00</Bidorbuy>
+		<TaxRate>0</TaxRate>
+
+		<IsBidCreditRestrictions>true</IsBidCreditRestrictions>
+
+		<IsBidderRestrictions>true</IsBidderRestrictions>
+		<IsBidderRatioRestrictions>false</IsBidderRatioRestrictions>
+		<IsEarlyClosing>true</IsEarlyClosing>
+		<IsAutomaticExtension>true</IsAutomaticExtension>
+		<IsOffer>false</IsOffer>
+		<IsCharity>false</IsCharity>
+
+		<Option>
+			<BuynowIcon>http://i.yimg.jp/images/auct/template/ui/auc_mod/ic_9008.gif</BuynowIcon>
+			<EasyPaymentIcon>http://i.yimg.jp/images/pay/icon_s16.gif</EasyPaymentIcon>
+		</Option>
+		
+		<Payment>
+			<EasyPayment>
+				<IsCreditCard>true</IsCreditCard>
+				<IsNetBank>true</IsNetBank>
+			</EasyPayment>
+
+			<Bank totalBankMethodAvailable="2">
+
+				<Method>ジャパンネットバンク</Method>
+				<Method>ゆうちょ銀行</Method>
+			</Bank>
+
+		</Payment>
+
+		<BlindBusiness>impossible</BlindBusiness>
+		<SevenElevenReceive>impossible</SevenElevenReceive>
+		<ChargeForShipping>winner</ChargeForShipping>
+		<Location>神奈川県</Location>
+		<IsWorldwide>false</IsWorldwide>
+
+		<ShipTime>after</ShipTime>
+
+		<Shipping totalShippingMethodAvailable="1">
+			<Method>
+				<Name>はこBOON</Name>
+				<PriceURL>https://www.takuhai.jp/html/titai_09.html</PriceURL>
+			</Method>
+
+		</Shipping>
+
+		<BaggageInfo>
+			<Size>&#xff5e;120cm</Size>
+			<Weight>&#xff5e;5kg</Weight>
+		</BaggageInfo>
+		<IsAdult>false</IsAdult>
+		<CharityOption>
+			<Proportion>0</Proportion> 
+		</CharityOption>
+	<AnsweredQAndANum>1</AnsweredQAndANum>
+	</Result>
+</ResultSet>

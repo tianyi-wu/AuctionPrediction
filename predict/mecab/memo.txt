@@ -1,0 +1,41 @@
+#analyzerを以下に置き換えてください
+
+def analyzer(text):
+    ret = []
+    tagger = MeCab.Tagger('-Ochasen')
+    node = tagger.parseToNode(text.encode('utf-8'))
+    while node:
+        if node.feature.split(',')[0] == u'名詞':
+            ret.append(node.surface)
+        node = node.next
+    return ret
+    
+    
+###################################################
+
+辞書の設定について
+
+初期設定では
+VPCCW28FJ/W → VPCCW, 28, FJ, /, W
+というように、数字とアルファベットの切れ目で必ず別れてしまいますが、
+数字とアルファッベットを区別しないという設定にすることで、
+VPCCW28FJ/W → VPCCW28FJ, / ,W
+みたいな感じに分けることができるようになります
+(wordlist.csv が設定変更後の結果)
+
+
+windowsでの設定方法は
+
+MeCab/dic/ipadicにある
+
+char.defの#ASCII下, 44行目   NUMERIC を ALPHA に書き換え
+Noun.number.csv のアラビア数字0~9の行を全て削除
+
+した後に、適当なディレクトリに移動して
+
+mecab-dict-index -d “C:\Program Files(x86)\MeCab\dic\ipadic”-f shift-jis -t utf-8
+
+を実行(-f は辞書,ipadicにあるcsvの文字コード, -tは作りたい辞書の文字コード?)、できた4つのファイルをMeCab/dic/ipadic下に置けば、上のような設定にすることができると思われます
+
+やる前に必ずバックアップをとっておくべし
+
